@@ -1,3 +1,3 @@
-# maya-taylor-01-html-assignment
+# html-assignment
 
 
